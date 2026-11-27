@@ -8,7 +8,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - les notes, 2
 - les articles,
 - les rapports et
-- la documentation du caca.
+- la documentation du caca qui pue
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
 
