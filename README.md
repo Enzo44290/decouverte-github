@@ -8,7 +8,11 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - les notes, 2
 - les articles,
 - les rapports et
+<<<<<<< HEAD
 - la documentation du caca et du pipi.
+=======
+- la documentation du caca qui pue
+>>>>>>> fd7cd5d791f53232d43aa105512360ca01f126d1
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
 
